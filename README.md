@@ -26,4 +26,6 @@ https://gruesome-station.surge.sh/
 
 ## Imagens
 #### Desktop Images
-```Não está sendo possível colar as imagens no GitHub, testei em outros repositórios e nada```
+![image](https://user-images.githubusercontent.com/52759918/126085114-397ae43d-06dd-400f-8c2e-a77dc7e94945.png)
+![image](https://user-images.githubusercontent.com/52759918/126085121-f8cc7ac4-6c5e-4885-8de2-a1a8fa93050b.png)
+
